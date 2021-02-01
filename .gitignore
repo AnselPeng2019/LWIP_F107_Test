@@ -1,0 +1,7 @@
+.svn/
+*si4project
+MDK-ARM/*
+*uvgui*
+!*.uvoptx
+!*.uvprojx
+
